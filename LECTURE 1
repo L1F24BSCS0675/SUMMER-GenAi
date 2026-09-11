@@ -1,0 +1,17 @@
+GEN AI basically ai models hote hn jinhee humans code dete hn or ai model use understand krtee hn or phirhumans ko text pictures creeations provide krtee hn 
+
+ai models are trained by humans byorviding a lot of data and then these models work as a predictor content creator or etc
+
+there are two ways in gen ai the first one is the builder perspective in which the builder get tanrnsformer encode decoder and give them pretraining by  give a huge data and than come fine tuning in which we train the ai models in a specific field so they work perfectly in the give data task
+
+generalied ai: those who work on every task not on the specific task 
+
+RAG: humans provide their own data to the llms by using the rag and then do answer q.s from the llm quries  because llm are trained on their owndata they don't know about your data and we will use and at that time the are made for secific task and we don't have any idea so we use rag and give our personal data to llm by using  rag and inthis way we can use the given llm for theit own task
+
+PROMPT ENGEINERING:the input which is given to the generlied models or foundation models like chatgpt input ia known as prompt
+
+AGENTS: we will provide our lms the tools and after giving these tools to llm then they are able to perform some tasks for you not only ans your q.s but also to do som work for you like you say search  the best restaurant iin pk llm search and after that you say that also get appointment here for me than ai agents do this  for you
+
+
+Chatbot = Talk with AI 
+Agent = Give AI a goal and let it work toward it 
